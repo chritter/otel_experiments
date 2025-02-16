@@ -1,0 +1,1 @@
+# Experiments of monitoring GenAI Applications with OpenTelemetry
